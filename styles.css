@@ -1,0 +1,92 @@
+h1{
+  font-family: 'Chelsea Market', cursive;
+  text-align: center;
+  font-size: 5rem;
+  text-shadow: 3px 0 #577590;
+}
+
+.set {
+  margin: 10% auto;
+  text-align: center;}
+
+body{
+  background-color: #90be6d;
+  position: relative;
+}
+
+footer{
+  font-family: 'Chelsea Market', cursive;
+  text-align: center;
+}
+
+.a-img{
+  height: 150px;
+  width: 150px;
+}
+
+.e{
+  background-image: url("https://image.freepik.com/free-vector/cute-elephant-cartoon_160606-195.jpg");
+  background-size: 100%;
+}
+
+.c{
+  background-image: url("https://image.freepik.com/free-vector/cartoon-crocodile-isolated-white-background_29190-528.jpg");
+  background-size: 100%;
+}
+
+.p{
+  background-image: url("https://image.freepik.com/free-vector/adorable-standing-macaw-waving-cartoon_74769-46.jpg");
+  background-size: 100%;
+}
+
+.s{
+  background-image: url("https://image.freepik.com/free-vector/cute-green-snake-cartoon-isolated_29190-4758.jpg");
+  background-size: 100%;
+}
+
+.m{
+  background-image: url("https://image.freepik.com/free-vector/cute-monkey-cartoon-eating-banana_33070-3786.jpg");
+  background-size: 100%;
+}
+
+.l{
+  background-image: url("https://image.freepik.com/free-vector/cartoon-happy-lion-isolated-white-background_29190-752.jpg");
+  background-size: 110%;
+}
+
+.g{
+  background-image: url("https://image.freepik.com/free-vector/cartoon-funny-gorilla-white-background_29190-4723.jpg");
+  background-size: 110%;
+}
+
+.bn {
+  outline: none;
+  border: 10px solid #43aa8b;
+  font-size: 2rem;
+  font-family: 'Chelsea Market', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #f94144;
+  text-shadow: 3px 0 #f9c74f;
+  border-radius: 15px;
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+  position: relative;
+}
+
+.bn-text{
+  display: flex;
+  position: absolute;
+  bottom: 0;
+  line-height: 1;
+  /* padding-right: 140px; */
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
